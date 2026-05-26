@@ -6,6 +6,7 @@
  import Exercicio4 from "./exercicio4";
  import Exercicio5 from "./exercicio5";
  import Exercicio6 from "./exercicio6";
+ import Exercicio7 from "./exercicio7";
 
  export default function App()
  {
@@ -66,9 +67,14 @@
      <h3>Exercício 6</h3>
      <Exercicio6 capital={1000} taxa={5} tempo={6} />
      </div>
-      
-      </div> 
 
-    
+     <div className="card">
+     <h3>Exercício 7</h3>
+    <Exercicio7 celsius={30} />
+    <hr />
+    <Exercicio7 celsius={100} />
+    </div>
+
+      </div> 
     )      
 }
