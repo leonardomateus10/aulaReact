@@ -19,6 +19,30 @@ export default  function  Home()
 
       </div>
 
+      <div className="conteudo">
+        <h3>Regiao sul</h3>
+
+        <ul>
+            <li> <Link to="/estados/pr"> paraná</Link></li>
+            <li> <Link to="estados/sc"> santa catarina</Link></li> 
+            <li> <Link to="estados/rs"> rio grande do sul</Link></li>
+        </ul>
+
+      </div>
+
+      <div className="conteudo">
+        <h3>regiao centro oeste</h3>
+
+        <ul>
+        <li> <Link to="/estados/go"> goias</Link></li>
+            <li> <Link to="estados/mt">mato grosso</Link></li> 
+            <li> <Link to="estados/ms"> mato grosso do sul </Link></li>
+        </ul>
+
+      </div>
+
+
+
     </div>
   );
 }
