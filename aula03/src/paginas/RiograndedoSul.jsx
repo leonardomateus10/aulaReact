@@ -4,7 +4,7 @@ export default  function  RiograndedoSul()
 {
   return(
     <div>
-      <h1>Estado do Parana</h1>
+      <h1>Estado do rio grande do sul</h1>
 
       <div className="conteudo">
 

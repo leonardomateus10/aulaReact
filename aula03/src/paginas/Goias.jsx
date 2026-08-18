@@ -4,7 +4,7 @@ export default  function  Goias()
 {
   return(
     <div>
-      <h1>Estado de são paulo</h1>
+      <h1>Estado de goias</h1>
 
       <div className="conteudo">
 

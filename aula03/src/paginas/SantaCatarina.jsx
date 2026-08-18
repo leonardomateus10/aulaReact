@@ -4,7 +4,7 @@ export default  function  SantaCatarina()
 {
   return(
     <div>
-      <h1>Estado do Parana</h1>
+      <h1>Estado de santa catarina</h1>
 
       <div className="conteudo">
 
