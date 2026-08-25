@@ -4,7 +4,7 @@ export default  function  Bahia()
 {
   return(
     <div>
-      <h1>Estado do bahia</h1>
+      <h1>Estado da bahia</h1>
 
       <div className="conteudo">
 

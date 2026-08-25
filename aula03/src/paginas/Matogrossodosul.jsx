@@ -4,7 +4,7 @@ export default  function  MatoGrossodosul()
 {
   return(
     <div>
-      <h1>Estado de Mato Grosso do sul</h1>
+      <h1>Estado do Mato Grosso do sul</h1>
 
       <div className="conteudo">
 

@@ -30,10 +30,6 @@ import Bahia from "./paginas/Bahia";
 
 
 
-
-
-
-
 export default  function  App()
 {
   return(
